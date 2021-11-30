@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there , I’m Haneen Alzahrani 
 
-<!--
-**haneenn5/Haneenn5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h4 align="center"> I'm a data scientist currently pursuing my Nanodegree program in Udacity.  </h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### BIO
+
+roficient in interpreting and examining data to drive growth for organizations. Skilled in data visualization, and creative thinking, problem solving, and programming.
+
+#### SKILLS
+
+- Programming Languages: Java, Python ,HTML, JavaScript, R, XML.
+- Operating systems : Windows, Mac.
+- Software Applications: MS Office, LATEX, Object-Oriented Programming IDEs, Tableau, Power Bi. Databases (SQL).
