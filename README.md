@@ -5,7 +5,7 @@
 
 #### BIO
 
-roficient in interpreting and examining data to drive growth for organizations. Skilled in data visualization, and creative thinking, problem solving, and programming.
+Proficient in interpreting and examining data to drive growth for organizations. Skilled in data visualization, and creative thinking, problem solving, and programming.
 
 #### SKILLS
 
